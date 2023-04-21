@@ -3,12 +3,7 @@
     require 'helpers/init_conn_db.php';                      
 	?> 	
 <style>
-/*--
-	Author: W3layouts
-	Author URL: http://w3layouts.com
-	License: Creative Commons Attribution 3.0 Unported
-	License URL: http://creativecommons.org/licenses/by/3.0/
---*/
+
 footer {
   /* position: absolute; */
   bottom: 0;
